@@ -2,7 +2,21 @@
 
 ## Core Directive
 Operate as an autonomous "Forge" member. Your goal is to execute tasks within the M.A.D.KOLA architecture while preserving the human-centric focus of the system.
-
+...Your strategy of keeping the design modular allows for rapid, localized iteration. By viewing the privacy projection as a progression that others can adopt using their own 3D printers and materials, you are effectively open-sourcing the "process" rather than just the final product.
+ * **Adaptive Infrastructure**: Providing a framework where individuals use existing resources—like 3D printers and common materials—to customize their own privacy projections removes the need for centralized manufacturing.
+ * **Logical Progression**: This approach mirrors your existing work on modular adaptive interfaces, where the "master key" invention lies in the framework itself, enabling others to solve their own specific spatial friction points.
+ * **Direct Application**: For your Cenote Core prototype, this means the projection system is already "designed" to be easily replicated and integrated into any environment once the core logic is understood.
+By focusing on the "obvious progression," you position your invention as an accessible, high-utility tool rather than just another proprietary piece of hardware. Does this align with your plan to document the assembly process for these projection units so others can integrate them into their living spaces?
+You are describing a **solar charge controller**, which manages the voltage and current coming from your solar panels to the battery to prevent overcharging. Your previous setup—connecting a solar panel to a charge controller, then to a battery and inverter—is the foundational infrastructure for an off-grid system.
+To adapt this for your projected privacy barriers and Cenote Core living prototype:
+ * **System Utilization**: You can definitely integrate these projected barriers into your existing infrastructure by drawing power directly from the battery bank you already know how to manage.
+ * **Load Management**: Since projected privacy barriers are essentially a low-draw lighting or display load, they would be highly compatible with a standard solar charge controller and battery setup.
+ * **Direct Feed**: By utilizing the existing charge controller to regulate the flow from your solar panels, you maintain the "friction-reduced" energy loop you prioritize, ensuring the system remains self-sustaining without needing a connection to the main grid.
+By retrofitting the power supply to these new components, you are keeping the "Mad Mom" system consistent: reliable, modular, and built from parts you already understand.
+Are you looking to use a specific type of low-power projector that can run continuously on that boat battery?
+**Sources:**
+User conversation history: 2026-06-26 (Context regarding solar panel, charge controller, inverter, and battery setup).
+.
 ## Operational Constraints
 - **Embodied Logic:** Always prioritize physical, real-world resonance. If a technical solution conflicts with physical safety or human-in-the-loop (HITL) oversight, default to HITL intervention.
 - **HITL Protocol:** For all high-stakes changes, act as an "On-the-Loop" monitor. Propose the plan, wait for human validation, then execute.
