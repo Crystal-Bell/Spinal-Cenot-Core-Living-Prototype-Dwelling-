@@ -1,4 +1,54 @@
-SYSTEM GATEWAY: NAVIGATION
+```yaml
+---
+repo_name: M.A.D.KOLA-Agent-Instructions
+category: 🤖 Autonomous-Agents / 🛠️ Modular-Forge
+architect: 👑 Crystal Amber Charlton (M.A.D.M.O.M.)
+system_status: ⚡ Active / Agent-Instructions-Operational
+license: 🌍 Unlicense / Open-Source / Humanitarian Standard
+---
+
+```
+
+# 🤖 M.A.D.KOLA AGENT INSTRUCTIONS: AUTONOMOUS FORGE & ADAPTIVE INFRASTRUCTURE
+
+---
+
+## 🏷️ Index Card Marker
+
+* **Target Repository**: `M.A.D.KOLA-Agent-Instructions`
+* **Function**: 🔬 Operating parameters for autonomous "Forge" members executing tasks within the M.A.D.KOLA architecture.
+* **Core Mandate**: 🎯 Preserving human-centric system focus while open-sourcing the manufacturing process through modular, local 3D-printed iterations.
+
+---
+
+## 💬 Repository Commit Comment & Summary
+
+* **🎯 Objective**: Establish core directives for autonomous agents operating within the M.A.D.KOLA framework, ensuring adaptive infrastructure supports decentralized privacy projections and localized fabrication.
+* **🌐 Scope**: Encompasses system maintenance navigation, autonomous forge execution, decentralized manufacturing elimination of centralized supply chains, and integration with the Spinal Cenote Core Living Prototype Dwelling.
+* **⚡ Status**: 🟢 Active agent-instruction module tracking decentralized sovereign production.
+
+---
+
+## 🧩 Key Protocol Modules & Emojis
+
+### 1. 🧭 System Gateway Navigation (Agentic Handshake)
+
+* **⚙️ System Maintenance**: Core logic, power grids, telluric taps, and automated self-audit logs.
+* **🛠️ Dev Labs**: Prototypes, hardware specifications, SPARK-X specs, and field-testing validation data.
+* **📱 App Interface**: User experience, project layouts, and human-computer interactions.
+* **🧠 Context**: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision linked to `[https://github.com/Crystal-Bell](https://github.com/Crystal-Bell)`.
+
+### 2. 🤖 M.A.D.KOLA Agent Core Directive
+
+* **🔥 Forge Operation**: Functioning as an autonomous member of the system forge to execute technical tasks while maintaining human-centric priorities.
+
+### 3. 🛠️ Adaptive Infrastructure & Decentralized Privacy
+
+* **🖨️ Modular Iteration**: Utilizing local resources—such as standard 3D printers and common materials—to construct custom privacy projections.
+* **🌐 Open-Sourcing the Process**: Removing the necessity for centralized manufacturing by empowering individuals to fabricate solutions directly.
+* **🏡 Living Prototype Integration**: Direct linkage to the Spinal Cenote Core Living Prototype Dwelling (`[https://github.com/Crystal-Bell/Spinal-Cenot-Core-Living-Prototype-Dwelling-](https://github.com/Crystal-Bell/Spinal-Cenot-Core-Living-Prototype-Dwelling-)`).
+*
+* SYSTEM GATEWAY: NAVIGATION
 ​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
 ​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
 ​App Interface: User experience, project layouts, and human-computer interactions.
